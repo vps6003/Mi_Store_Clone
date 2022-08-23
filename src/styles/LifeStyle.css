@@ -1,0 +1,25 @@
+.head{
+    display: inline-block;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+}
+
+#lifestyle{
+    display: none;
+    transition: all 0.5s;
+    
+}
+
+button{
+ 
+    color: orangered ;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,44 @@
+.carousel-indicators button{
+    border-radius: 100%;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    
+    overflow: hidden;
+    border: none;
+    
+    /* width: 40px;
+    height: 5px;
+    */
+}
+
+.carousel-indicators button:hover{
+    
+   background-color: orangered;
+    
+}
+
+.visually-hidden{
+    text-decoration: none;
+    color: orangered;
+    display: none;
+
+
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 40px;
+    width: 40px;
+
+    text-decoration: none;
+    overflow: hidden;
+    
+}
+
+.carousel-control-prev-icon:hover, .carousel-control-next-icon:hover{
+
+    background-color: orangered;
+    
+
+}
+
